@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="terminal.svg" alt="oguz@universe terminal" />
+  <img src="terminal.svg" alt="oggsm@universe terminal" />
 </p>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
